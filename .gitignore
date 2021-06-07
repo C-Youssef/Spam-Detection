@@ -1,0 +1,5 @@
+# Bytecode-compiled/optimized files
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
