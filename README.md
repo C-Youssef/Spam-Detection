@@ -5,8 +5,15 @@
   The model is built using the Multinomial Naive Bayes (MNB) classifier. It is a fast algorithm that is suited for text classification.
   
   We deployed the model in a web app for online spam detection using Streamlit.
+  
+#
 
-  The Jupyter notebook is divided into six sections:
+![App screenshot](https://github.com/C-Youssef/spam-detection/blob/ba3bb81c6a101ca0484f02a3ca6efbbcea17d207/media/app_screenshot.png)
+
+#
+
+  The Jupyter notebook spam_detection.ipynb is divided into six sections:
+  
 1.   Loading the labeled SMS dataset. 
 2.   Visualizing the data.
 3.   Applying natural language processing (NLP) to the textual data.
