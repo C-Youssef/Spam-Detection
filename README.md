@@ -8,7 +8,7 @@
   
 #
 
-![App screenshot](https://github.com/C-Youssef/spam-detection/blob/ba3bb81c6a101ca0484f02a3ca6efbbcea17d207/media/app_screenshot.png)
+![App screenshot](https://github.com/C-Youssef/spam-detection/blob/d3c7d51912348de1c4c6fd381b4c9305a377307d/media/app_screenshot.png)
 
 #
 
