@@ -31,7 +31,7 @@ def main():
     
 # Show help if needed
 
-    with st.beta_expander("Need help using the demo?"):
+    with st.expander("Need help using the demo?"):
         '''
         1. Select a text message on the left sidebar. You may also edit the message or write your own below.
         2. Click on *scan*.
@@ -69,7 +69,7 @@ def main():
 
 # Model details
 
-    with st.sidebar.beta_expander("Model details"):
+    with st.sidebar.expander("Model details"):
             st.write('[Multinomial Naive Bayes] (https://scikit-learn.org/stable/modules/naive_bayes.html#multinomial-naive-bayes) (MNB) classification using [Scikit learn](https://scikit-learn.org). Text preprocessing was done using [NLTK](https://www.nltk.org/). F1-score = 0.92')
 
     st.sidebar.write("")
@@ -101,7 +101,7 @@ def main():
     st.sidebar.write("")
     st.sidebar.write("")
 
-    with st.sidebar.beta_expander("SMS dataset source"):
+    with st.sidebar.expander("SMS dataset source"):
         st.write('The SMS Spam Collection Dataset was used to train and evaluate the model deployed in this web app. It is a public set of SMS labeled messages that have been collected for mobile phone spam research and hosted in the [machine learning repository of the UCL Center of Machine Learning and Intelligent systems] (https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection)')
 
     st.sidebar.write("")
