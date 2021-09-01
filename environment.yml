@@ -99,7 +99,7 @@ dependencies:
     - six==1.16.0
     - smmap==4.0.0
     - sniffio==1.2.0
-    - streamlit==0.82.0
+    - streamlit==0.87.0
     - terminado==0.10.0
     - testpath==0.5.0
     - threadpoolctl==2.1.0
@@ -116,4 +116,3 @@ dependencies:
     - websocket-client==1.0.1
     - widgetsnbextension==3.5.1
     - wordcloud==1.8.1
-prefix: /home/alibaba/anaconda3/envs/scikit_env
