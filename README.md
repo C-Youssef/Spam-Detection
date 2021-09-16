@@ -4,7 +4,9 @@
 
   The model is built using the Multinomial Naive Bayes (MNB) classifier. It is a fast algorithm that is suited for text classification.
   
-  We deployed the model in a web app for online spam detection using Streamlit.
+  We deployed the model in a web app for online spam detection using Streamlit. It can be accessed at:
+  
+  https://share.streamlit.io/c-youssef/spam-detection/main/spam_detection_app.py
   
 #
 
