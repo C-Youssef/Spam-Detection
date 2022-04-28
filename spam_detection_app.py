@@ -2,7 +2,6 @@
 # coding: utf-8
  
 import streamlit as st
-import SessionState
 import pandas as pd
 import numpy as np
 import nltk
